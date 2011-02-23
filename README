@@ -1,1 +1,6 @@
-This file was created by IntelliJ IDEA 10.0.2 for binding GitHub repository
+This is the addressbook application described in Vaadin's documentation (http://vaadin.com/tutorial/-/page/preface.html)
+but modified to use Grails as a backend for storing persons.
+
+This project uses the latest Grails-Vaadin plugin (plugin version 1.3 with Vaadin 6.5.1 inside).
+
+It also serves as a demonstration of integration with Spring Security Core plugin.
