@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="GrailsWeb">
+      <configuration>
+        <webroots>
+          <root url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/vaadin-1.3/web-app" relative="/" />
+          <root url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/vaadin-1.3/grails-app/views" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/hibernate-1.3.6">
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/hibernate-1.3.6/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/hibernate-1.3.6/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/hibernate-1.3.6/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/joda-time-1.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/joda-time-1.1/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/joda-time-1.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/joda-time-1.1/grails-app/taglib" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/joda-time-1.1/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/joda-time-1.1/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/joda-time-1.1/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-acl-1.0.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-acl-1.0.1/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-acl-1.0.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-acl-1.0.1/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-acl-1.0.1/grails-app/taglib" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-acl-1.0.1/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-acl-1.0.1/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-acl-1.0.1/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-core-1.1">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-core-1.1/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-core-1.1/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-core-1.1/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-core-1.1/grails-app/taglib" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-core-1.1/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-core-1.1/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/spring-security-core-1.1/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/tomcat-1.3.6">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/tomcat-1.3.6/src/groovy" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/tomcat-1.3.6/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/tomcat-1.3.6/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/tomcat-1.3.6/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/vaadin-1.3">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/vaadin-1.3/src/java" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/vaadin-1.3/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/vaadin-1.3/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/vaadin-1.3/web-app/plugins" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library">
+        <CLASSES>
+          <root url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/tomcat-1.3.6/lib" />
+          <root url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/joda-time-1.1/lib" />
+          <root url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/vaadin-1.3/lib" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/com.springsource.org.apache.commons.logging/jars/com.springsource.org.apache.commons.logging-1.0.4.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.aopalliance/com.springsource.org.aopalliance/jars/com.springsource.org.aopalliance-1.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.springframework.security/org.springframework.security.acls/jars/org.springframework.security.acls-3.0.3.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.springframework.security/org.springframework.security.web/jars/org.springframework.security.web-3.0.4.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/org.springframework.security/org.springframework.security.core/jars/org.springframework.security.core-3.0.4.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/.ivy2/cache/com.vaadin/vaadin/jars/vaadin-6.5.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/spring-security-core-3.0.4.RELEASE-sources.jar!/" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/joda-time-1.1/lib" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/tomcat-1.3.6/lib" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/.grails/1.3.6/projects/addressbook/plugins/vaadin-1.3/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="grails-1.3.6" level="application" />
+  </component>
+</module>
+
